@@ -1,7 +1,7 @@
 # Gadget Grotto - Team project
 
 This project's objectives was to create an e-commerce website to sell a pre-determined list of gadget items.
-Alongside teammates Daniel Atak, Rony Kordahi, and Craig Nockels, I developed Gadget Grotto!
+Alongside teammates [Daniel Atak](https://github.com/dan-atack), [Rony Kordahi](https://github.com/RonyKordahi), and [Craig Nockels](https://github.com/CraigNock), I developed Gadget Grotto!
 
 ## Demo
 
